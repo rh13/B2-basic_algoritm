@@ -1,6 +1,6 @@
 a=0
 b=1
-n=input()
+n=int(input())
 print(a)
 print(b)
 i=1
